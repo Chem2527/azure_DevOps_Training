@@ -32,6 +32,7 @@
 -	Azure Subscription Management
 -	Azure Resource Manager (ARM) Templates
 -	Azure Policy and Role-Based Access Control (RBAC)
+-	Tenant,subscription,Entra id
 
 3. Azure Compute Services
    
