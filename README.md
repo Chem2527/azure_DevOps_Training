@@ -1,4 +1,4 @@
-# Azure & DevOps  Coursecurriculum
+# Azure & DevOps  Course curriculum
 
 
 1. Introduction to Cloud Computing
